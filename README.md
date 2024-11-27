@@ -1,4 +1,4 @@
-# This is Natchanon Maidee's portfolio
+# Natchanon Maidee's portfolio
 This code solves the problem by using Kruskal algorithm for MST and then using heap for best edge selection 
 
 ## 🚀 About Me
